@@ -1,0 +1,53 @@
+.register{
+    background: rgb(82, 178, 157);
+    color: azure;
+    text-align: center;
+    width: 90px;
+    height: 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    border: #d7acdf;
+    margin: 6px;
+    position: relative;
+    display: inline-block;
+    left: 30%;
+}
+.register:hover { background-color: #469849
+}
+.register:active {
+  background-color: #2d689b;
+  box-shadow: 0 5px #0a3aab;
+  transform: translateY(4px);
+}
+input{
+  text-align: center;
+  height: 20px;
+  width:  300px;
+}
+form{
+  background: #cbafaf;
+}
+h1{
+  text-align: center;
+}
+table{
+  border-radius: 2px;
+  border-color: #884747;
+  width: 700px;
+  height: px;
+
+}
+table, th, td {
+  border: 1px solid rgb(116, 111, 111);
+  border-collapse: collapse;
+}
+.warning {
+color: red;    
+}
+.fname{
+  background: rgb(216, 202, 202);
+}
+.dob{
+  background: rgb(216, 202, 202);
+}
+
